@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">Hi 🤖, I'm FlyPig</h1>
+## Hi there 👋, I'm FlyPig 🤖</h1>
 <h3 align="center">Exploring Learning-Enabled Robots, One Circuit and Line of Code at a Time.</h3>
 
 <p align="center">
