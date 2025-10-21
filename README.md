@@ -3,16 +3,12 @@
   <img src="https://komarev.com/ghpvc/?username=fly-pigTH&label=Profile%20views&color=0e75b6&style=flat" alt="fly-pigTH" />
 </p>
 
----
-
 - 🔭 I'm currently working on **robot learning, soft actuation control, and sim2real transfer**  
 - 🧠 Research interests: **robotics + AI + hardware**, making robots learn through experience  
 - 🧰 I'm skilled in: **Python, hardware prototyping, embedded systems, ML/AI**  
 - 💬 Ask me about: **MuJoCo, soft robotics, reinforcement learning, edge hardware for control**
 - 🧾 I’m building [SoRoScholar](https://github.com/fly-pigTH/awesome-soft-robot-papers) – a curated archive of soft robotics papers  
 - 📫 Reach me at: `your_email@example.com` *(可选)*
-
----
 
 ### 🌐 Connect with me
 
@@ -21,8 +17,6 @@
 <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-Medium-black?style=flat&logo=medium&logoColor=white"/></a>
 </p>
-
----
 
 ### 🛠️ Languages & Tools
 
@@ -39,7 +33,6 @@
 
 <details>
   <summary>📈 GitHub Stats</summary>
-
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=fly-pigTH&show_icons=true&theme=radical"/>
   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=fly-pigTH&layout=compact" />
 </details>
