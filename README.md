@@ -1,11 +1,5 @@
 ## Hi there 👋, I'm FlyPig 🤖</h1>
-<h3 align="center">Exploring Learning-Enabled Robots, One Circuit and Line of Code at a Time.</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="120px"/>
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=fly-pigTH&label=Profile%20views&color=0e75b6&style=flat" alt="fly-pigTH" />
 </p>
 
@@ -48,11 +42,4 @@
 
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=fly-pigTH&show_icons=true&theme=radical"/>
   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=fly-pigTH&layout=compact" />
-</details>
-
----
-
-<details>
-  <summary>🔥 GitHub Streak</summary>
-  <img src="https://streak-stats.demolab.com?user=fly-pigTH&theme=radical&border_radius=10"/>
 </details>
