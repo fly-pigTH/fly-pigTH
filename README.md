@@ -7,10 +7,10 @@
 - 🧠 Research interests: **robotics + AI + hardware**, making robots learn through experience  
 - 🧰 I'm skilled in: **Python, hardware prototyping, embedded systems, ML/AI**  
 - 💬 Ask me about: **MuJoCo, soft robotics, reinforcement learning, edge hardware for control**
-- 🧾 I’m building [SoRoScholar](https://github.com/fly-pigTH/awesome-soft-robot-papers) – a curated archive of soft robotics papers  
-- 📫 Reach me at: `your_email@example.com` *(可选)*
+- 🧾 I’m building [SoRo-Scholar](https://github.com/fly-pigTH/SoRo-Scholar) – a curated archive of soft robotics papers  
+- 📫 Reach me at: `flypig20482@gmail.com`
 
-### 🌐 Connect with me
+### 🌐 Connect with me (to be updated)
 
 <p align="left">
 <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>
