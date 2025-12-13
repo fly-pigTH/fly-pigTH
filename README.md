@@ -3,6 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=fly-pigTH&label=Profile%20views&color=0e75b6&style=flat" alt="fly-pigTH" />
 </p>
 
+[Phd] [Photographer] [Developer] [RoboCuper] 
+
 - 🔭 I'm currently working on **robot learning, soft actuation control, and sim2real transfer** in Tsinghua University 
 - 🧠 Research interests: **robotics + AI + hardware**, making robots learn through experience  
 - 🧰 I'm skilled in: **Python, hardware prototyping, embedded systems, ML/AI**  
