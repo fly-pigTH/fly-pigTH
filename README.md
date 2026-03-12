@@ -10,7 +10,7 @@
 - 🧰 I'm skilled in: **Python, hardware prototyping, embedded systems, ML/AI**  
 - 💬 Ask me about: **MuJoCo, soft robotics, reinforcement learning, edge hardware for control**
 - 🧾 I’m building [SoRo-Scholar](https://github.com/fly-pigTH/SoRo-Scholar) – a curated archive of soft robotics papers  
-- 📫 Reach me at: `flypig20482@gmail.com`
+- 📫 Reach me at: `zylbhsf@gmail.com`
 
 ### 🌐 Connect with me (to be updated)
 
