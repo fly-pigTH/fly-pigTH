@@ -11,7 +11,7 @@
 - 💬 Ask me about: **MuJoCo, soft robotics, reinforcement learning, edge hardware for control**
 - 🧾 I’m building [SoRo-Scholar](https://github.com/fly-pigTH/SoRo-Scholar) – a curated archive of soft robotics papers  
 - 📫 Reach me at: `zylbhsf@gmail.com`
-- CS2 Awper! 🥳
+- CS2 Awper! 🥳 See u in DUST2 and InferNo.
 
 ### 🌐 Connect with me (to be updated)
 
