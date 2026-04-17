@@ -13,7 +13,7 @@
 - 📫 Reach me at: `zylbhsf@gmail.com`
 - CS2 Awper! 🥳 See u in Dust2 and InferNo.
 
-I am building wheel-legged, quadrotor, quadrapad, humanoid robots at this moment.
+I am building wheel-legged, quadrotor, quadrapad, humanoid robots at this moment...
 
 ### 🌐 Connect with me (to be updated)
 
