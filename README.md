@@ -5,7 +5,7 @@
 
 [Phd] [Photographer] [Developer] [RoboCuper] 
 
-- 🔭 I'm currently working on **robot learning, soft actuation control, and sim2real transfer** in Tsinghua University 
+- 🔭 I'm currently working on **robot learning, soft actuation control, and sim2real transfer** in Tsinghua University(THU) 
 - 🧠 Research interests: **robotics + AI + hardware**, making robots learn through experience  
 - 🧰 I'm skilled in: **Python, hardware prototyping, embedded systems, ML/AI**  
 - 💬 Ask me about: **MuJoCo, soft robotics, reinforcement learning, edge hardware for control**
