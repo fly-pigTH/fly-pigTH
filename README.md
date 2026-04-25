@@ -1,4 +1,4 @@
-## Hi here👋, I'm Yinglei-Zhu/FlyPig 🤖
+## Hi here👋, I'm Yinglei-Zhu / FlyPig 🤖
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fly-pigTH&label=Profile%20views&color=0e75b6&style=flat" alt="fly-pigTH" />
 </p>
