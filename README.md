@@ -15,7 +15,7 @@
 
 I am building wheel-legged, quadrotor, quadrapad, humanoid robots at this moment...
 
-### 🌐 Connect with me (to be updated)
+### 🌐 Connect with me
 
 <p align="left">
 <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>
