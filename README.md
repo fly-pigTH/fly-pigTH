@@ -3,6 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=fly-pigTH&label=Profile%20views&color=0e75b6&style=flat" alt="fly-pigTH" />
 </p>
 
+What I cannot create/I do not understand
+I do not understand/What I cannot create
+
 [Phd] [Photographer] [Developer] [RoboCuper] 
 
 - 🔭 I'm currently working on **robot learning, soft actuation control, and sim2real transfer** in Tsinghua University(THU) 
