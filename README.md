@@ -1,14 +1,13 @@
 <h2 align="left">Hi here, I'm Yinglei-Zhu / FlyPigTH <img src="https://komarev.com/ghpvc/?username=fly-pigTH&label=Profile%20views&color=0e75b6&style=flat" alt="fly-pigTH" /></h2>
 
-PhD @ THU | Photographer / Developer / RoboCuper | `zylbhsf@gmail.com`
-
-Working on **dynamic modeling & simulation** [![RA-L](https://img.shields.io/badge/RA--L-EquiMus-00599C?style=flat)](https://arxiv.org/abs/2511.07887), **soft actuation control** [![T-RO](https://img.shields.io/badge/T--RO-Bionic%20Leg-00599C?style=flat)](https://doi.org/10.1109/TRO.2025.3567801), and **wheel-legged locomotion** [![IROS](https://img.shields.io/badge/IROS-Whleaper-00599C?style=flat)](https://arxiv.org/abs/2504.21767).
-
-Building wheel-legged <img src="./assets/robots/wheel-legged.svg" alt="wheel-legged robot" title="Wheel-legged robot" height="24"/>, quadrotor <img src="./assets/robots/quadrotor.svg" alt="quadrotor" title="Quadrotor" height="24"/>, quadruped <img src="./assets/robots/quadruped.svg" alt="quadruped robot" title="Quadruped robot" height="24"/>, and humanoid <img src="./assets/robots/humanoid.svg" alt="humanoid robot" title="Humanoid robot" height="24"/> robots.
-
-### Tech Stack
+<p align="left">
+  PhD @ THU · Photographer / Developer / RoboCuper · <code>zylbhsf@gmail.com</code><br>
+  <b>Research:</b> dynamic modeling &amp; simulation <a href="https://arxiv.org/abs/2511.07887"><img src="https://img.shields.io/badge/RA--L-EquiMus-00599C?style=flat" alt="RA-L EquiMus"/></a> · soft actuation control <a href="https://doi.org/10.1109/TRO.2025.3567801"><img src="https://img.shields.io/badge/T--RO-Bionic%20Leg-00599C?style=flat" alt="T-RO Bionic Leg"/></a> · wheel-legged locomotion <a href="https://arxiv.org/abs/2504.21767"><img src="https://img.shields.io/badge/IROS-Whleaper-00599C?style=flat" alt="IROS Whleaper"/></a><br>
+  <b>Building:</b> wheel-legged <img src="./assets/robots/wheel-legged.svg" alt="wheel-legged robot" title="Wheel-legged robot" height="18"/> · quadrotor <img src="./assets/robots/quadrotor.svg" alt="quadrotor" title="Quadrotor" height="18"/> · quadruped <img src="./assets/robots/quadruped.svg" alt="quadruped robot" title="Quadruped robot" height="18"/> · humanoid <img src="./assets/robots/humanoid.svg" alt="humanoid robot" title="Humanoid robot" height="18"/> robots
+</p>
 
 <p align="left">
+  <b>Tech Stack</b><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" height="32"/>
