@@ -1,45 +1,28 @@
-## Hi here👋, I'm Yinglei-Zhu / FlyPig 🤖
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fly-pigTH&label=Profile%20views&color=0e75b6&style=flat" alt="fly-pigTH" />
-</p>
+<h2 align="left">Hi here, I'm Yinglei-Zhu / FlyPigTH <img src="https://komarev.com/ghpvc/?username=fly-pigTH&label=Profile%20views&color=0e75b6&style=flat" alt="fly-pigTH" /></h2>
 
-what I cannot create / I do not understand / what I cannot create
+PhD @ THU | Photographer / Developer / RoboCuper | `zylbhsf@gmail.com`
 
-[Phd] [Photographer] [Developer] [RoboCuper] 
+Working on **dynamic modeling & simulation** [![RA-L](https://img.shields.io/badge/RA--L-EquiMus-00599C?style=flat)](https://arxiv.org/abs/2511.07887), **soft actuation control** [![T-RO](https://img.shields.io/badge/T--RO-Bionic%20Leg-00599C?style=flat)](https://doi.org/10.1109/TRO.2025.3567801), and **wheel-legged locomotion** [![IROS](https://img.shields.io/badge/IROS-Whleaper-00599C?style=flat)](https://arxiv.org/abs/2504.21767).
 
-- 🔭 I'm currently working on **robot learning, soft actuation control, and sim2real transfer** in Tsinghua University(THU) 
-- 🧠 Research interests: **robotics + AI + hardware**, making robots learn through experience  
-- 🧰 I'm skilled in: **Python, hardware prototyping, embedded systems, ML/AI**  
-- 💬 Ask me about: **MuJoCo, soft robotics, reinforcement learning, edge hardware for control**
-- 🧾 I’m building [SoRo-Scholar](https://github.com/fly-pigTH/SoRo-Scholar) – a curated archive of soft robotics papers  
-- 📫 Reach me at: `zylbhsf@gmail.com`
-- CS2 Awper! 🥳 See u in Dust2 and InferNo.
+Building wheel-legged <img src="./assets/robots/wheel-legged.svg" alt="wheel-legged robot" title="Wheel-legged robot" height="24"/>, quadrotor <img src="./assets/robots/quadrotor.svg" alt="quadrotor" title="Quadrotor" height="24"/>, quadruped <img src="./assets/robots/quadruped.svg" alt="quadruped robot" title="Quadruped robot" height="24"/>, and humanoid <img src="./assets/robots/humanoid.svg" alt="humanoid robot" title="Humanoid robot" height="24"/> robots.
 
-I am building wheel-legged, quadrotor, quadrapad, humanoid robots at this moment...
-
-### 🌐 Connect with me
+### Tech Stack
 
 <p align="left">
-<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-Medium-black?style=flat&logo=medium&logoColor=white"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" alt="gazebo" height="32"/>
+  <img src="https://raw.githubusercontent.com/google-deepmind/mujoco/main/doc/images/banner.svg" alt="mujoco" height="32"/>
+  <img src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat&logo=nvidia&logoColor=white" alt="isaac-lab" height="32"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" alt="solidworks" height="32"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" height="32"/>
 </p>
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-</p>
-
----
-
-<details>
-  <summary>📈 GitHub Stats</summary>
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=fly-pigTH&show_icons=true&theme=radical"/>
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=fly-pigTH&layout=compact" />
-</details>

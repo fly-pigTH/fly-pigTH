@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Humanoid robot</title>
+  <g fill="none" stroke="#4f5b66" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="22" y="10" width="20" height="18" rx="6"/>
+    <path d="M26 20h.1"/>
+    <path d="M38 20h.1"/>
+    <rect x="18" y="34" width="28" height="14" rx="4"/>
+    <path d="M22 34 14 42"/>
+    <path d="M42 34 50 42"/>
+    <path d="M26 48 22 56"/>
+    <path d="M38 48 42 56"/>
+  </g>
+</svg>
