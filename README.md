@@ -2,7 +2,7 @@
 
 <p align="left">
   PhD @ THU · Photographer / Developer / RoboCuper · <code>zylbhsf@gmail.com</code><br>
-  <b>Research:</b> dynamic modeling &amp; simulation <a href="https://arxiv.org/abs/2511.07887"><img src="https://img.shields.io/badge/RA--L-EquiMus-00599C?style=flat" alt="RA-L EquiMus"/></a> · soft actuation control <a href="https://doi.org/10.1109/TRO.2025.3567801"><img src="https://img.shields.io/badge/T--RO-Bionic%20Leg-00599C?style=flat" alt="T-RO Bionic Leg"/></a> · wheel-legged locomotion <a href="https://arxiv.org/abs/2504.21767"><img src="https://img.shields.io/badge/IROS-Whleaper-00599C?style=flat" alt="IROS Whleaper"/></a><br>
+  <b>Research:</b> dynamic modeling &amp; simulation <a href="https://arxiv.org/abs/2511.07887"><u>RA-L EquiMus</u></a> · soft actuation control <a href="https://doi.org/10.1109/TRO.2025.3567801"><u>T-RO Bionic Leg</u></a> · wheel-legged locomotion <a href="https://arxiv.org/abs/2504.21767"><u>IROS Whleaper</u></a><br>
   <b>Building:</b> wheel-legged <img src="./assets/robots/wheel-legged.svg" alt="wheel-legged robot" title="Wheel-legged robot" height="18"/> · quadrotor <img src="./assets/robots/quadrotor.svg" alt="quadrotor" title="Quadrotor" height="18"/> · quadruped <img src="./assets/robots/quadruped.svg" alt="quadruped robot" title="Quadruped robot" height="18"/> · humanoid <img src="./assets/robots/humanoid.svg" alt="humanoid robot" title="Humanoid robot" height="18"/> robots
 </p>
 
