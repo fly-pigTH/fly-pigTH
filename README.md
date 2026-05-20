@@ -1,8 +1,12 @@
 <p align="left">
   Hi here, I'm <b>Yinglei-Zhu / FlyPigTH</b> · PhD @ THU · <code>zylbhsf@gmail.com</code> <img src="https://komarev.com/ghpvc/?username=fly-pigTH&label=Profile%20views&color=0e75b6&style=flat" alt="fly-pigTH" height="18" align="middle" /><br>
-  <b>Research:</b> modeling &amp; simulation <a href="https://arxiv.org/abs/2511.07887"><u>RA-L EquiMus</u></a> · soft actuation <a href="https://doi.org/10.1109/TRO.2025.3567801"><u>T-RO Bionic Leg</u></a> · wheel-legged locomotion <a href="https://arxiv.org/abs/2504.21767"><u>IROS Whleaper</u></a><br>
-  <b>Robots:</b> wheel-legged <img src="./assets/robots/wheel-legged.svg" alt="wheel-legged robot" title="Wheel-legged robot" height="17" align="middle"/> · quadrotor <img src="./assets/robots/quadrotor.svg" alt="quadrotor" title="Quadrotor" height="17" align="middle"/> · quadruped <img src="./assets/robots/quadruped.svg" alt="quadruped robot" title="Quadruped robot" height="17" align="middle"/> · humanoid <img src="./assets/robots/humanoid.svg" alt="humanoid robot" title="Humanoid robot" height="17" align="middle"/>
-</p>
+
+- Wheel-legged: <a href="https://arxiv.org/abs/2504.21767"><u>Whleaper (IROS)</u></a>
+- Quadruped: <a href="https://arxiv.org/abs/2511.07887"><u>EquiMus (RA-L)</u></a>, <a href="https://doi.org/10.1109/TRO.2025.3567801"><u>Bionic Leg (T-RO)</u></a>
+- Quadrotor: Nimbus* (June, 2026), AlphaX* (May, 2026), NaD* (June, 2026?)
+- Humanoid: MuscleLens* (May, 2026), Z1* (Dec, 2026)
+
+*To be open-sourced in the future. Stay tuned!
 
 <p align="left">
   <b>Tech Stack</b><br>
