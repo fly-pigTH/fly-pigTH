@@ -6,7 +6,7 @@ What I cannot create, I do not understand. I do not understand, what I cannot cr
 - Wheel-legged: <a href="https://arxiv.org/abs/2504.21767"><u>Whleaper (IROS)</u></a>
 - Quadruped: <a href="https://doi.org/10.1109/TRO.2025.3567801"><u>Bionic Leg (T-RO)</u></a>
 - Simulation: <a href="https://arxiv.org/abs/2511.07887"><u>EquiMus (RA-L)</u></a>, <u>Omni-EquiMus2*</u> (July, 2026)
-- Quadrotor: <a href="https://github.com/fly-pigTH/nimbus"><u>Nimbus*</u></a> (June, 2026), <a href="https://github.com/fly-pigTH/AeroFlex"><u>AlphaX*</u></a> (May, 2026), <a href="https://github.com/fly-pigTH/Nano-AdheDrone"><u>NaD*</u></a> (June, 2026?)
+- Quadrotor: <a href="https://github.com/fly-pigTH/nimbus"><u>Nimbus*</u></a> (June, 2026), <a href="https://github.com/fly-pigTH/AeroFlex"><u>AlphaX*</u></a> (June, 2026), <a href="https://github.com/fly-pigTH/Nano-AdheDrone"><u>NaD*</u></a> (June, 2026?)
 - Humanoid: <a href="https://github.com/fly-pigTH/MuscleLens"><u>MuscleLens*</u></a> (July, 2026), OmniBlance-Z1* (Dec, 2026)
 
 *To be open-sourced in the future. Stay tuned!
