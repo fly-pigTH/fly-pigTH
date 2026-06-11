@@ -9,7 +9,7 @@ What I cannot create, I do not understand. I do not understand, what I cannot cr
 - Quadrotor: <a href="https://github.com/fly-pigTH/nimbus"><u>Nimbus*</u></a> (June, 2026), <a href="https://github.com/fly-pigTH/AeroFlex"><u>AlphaX*</u></a> (June, 2026), <a href="https://github.com/fly-pigTH/Nano-AdheDrone"><u>NaD*</u></a> (June, 2026?)
 - Humanoid: <a href="https://github.com/fly-pigTH/MuscleLens"><u>MuscleLens*</u></a> (July, 2026), OmniBlance-Z1* (Dec, 2026)
 
-*To be open-sourced in the future. Stay tuned!
+*To be released/open-sourced in the future. Stay tuned!
 
 <p align="left">
   <b>Tech Stack</b><br>
