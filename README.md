@@ -1,3 +1,4 @@
-Hi, I'm <b>@Yinglei (Louis) Zhu</b>, PhD in robotics @Tsinghua University (THU), connect me through <code>zylbhsf@gmail.com</code>.
+**Yinglei (Louis) Zhu** · Robotics PhD student @ Tsinghua University  
+[zylbhsf@gmail.com](mailto:zylbhsf@gmail.com)
 
-🎼 What I cannot create, I do not understand.
+*What I cannot create, I do not understand.*
